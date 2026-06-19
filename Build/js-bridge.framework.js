@@ -2255,7 +2255,7 @@ var ASM_CONSTS = {
       // Отправляем на origin родителя. Если уже получали входящее сообщение —
       // отвечаем ровно туда (покрывает прод + тестовые домены без правок).
       // Иначе фоллбэк на known-origin Honeytoons.
-      var targetOrigin = window.__parentOrigin || 'https://ht-2612-develop.dev-ht.prokit.me';
+      var targetOrigin = window.__parentOrigin || '*';
   
       try {
         window.parent.postMessage({ type: eventName, payload: payload }, targetOrigin);
