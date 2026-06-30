@@ -1,0 +1,424 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Analytics.SettingsAnalytics" preserve="all" />
+    <type fullname="Analytics.TitleAnalytics" preserve="all" />
+    <type fullname="Analytics.UIAnalytics.ChatMessageAnalytics" preserve="all" />
+    <type fullname="Analytics.UIAnalytics.InGameHeaderAnalytics" preserve="all" />
+    <type fullname="Analytics.UIAnalytics.StorePopupItemAnalytics" preserve="all" />
+    <type fullname="ChoiceHandlerButtonAnalytics" preserve="all" />
+    <type fullname="ChoseLookAnalytics" preserve="all" />
+    <type fullname="CommentsSectionUI" preserve="all" />
+    <type fullname="EpisodeProgressUI" preserve="all" />
+    <type fullname="HomeButton" preserve="all" />
+    <type fullname="HorizontalSwipeContainer" preserve="all" />
+    <type fullname="I2.Loc.LanguageSourceAsset" preserve="all" />
+    <type fullname="I2.Loc.LocalizationParamsManager" preserve="all" />
+    <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="JoshH.UI.UIGradient" preserve="all" />
+    <type fullname="LikesUI" preserve="all" />
+    <type fullname="LoadingPanel" preserve="all" />
+    <type fullname="LoadUrl" preserve="all" />
+    <type fullname="MagikAnalytics" preserve="all" />
+    <type fullname="MainMenuHeader" preserve="all" />
+    <type fullname="MasonryLayoutGroup" preserve="all" />
+    <type fullname="Naninovel.UI.AnimateCurrency" preserve="all" />
+    <type fullname="Naninovel.UI.CurrencyAnimationSettings" preserve="all" />
+    <type fullname="Naninovel.UI.FakeLoaderPopup.FakeLoaderPopup" preserve="all" />
+    <type fullname="Naninovel.UI.FinalStory_Stats" preserve="all" />
+    <type fullname="Naninovel.UI.LoadProgresValua" preserve="all" />
+    <type fullname="Naninovel.UI.PremiumToolbar" preserve="all" />
+    <type fullname="Naninovel.UI.RevealableTextPrinterPanelCustom" preserve="all" />
+    <type fullname="Naninovel.UI.StatHolder" preserve="all" />
+    <type fullname="Naninovel.UI.StorePopupItem" preserve="all" />
+    <type fullname="Naninovel.UI.VariableInputPanelCustom" preserve="all" />
+    <type fullname="ObjectPool" preserve="all" />
+    <type fullname="OnClikAnim" preserve="all" />
+    <type fullname="Runtime.Actor.Character.FlipCardState" preserve="all" />
+    <type fullname="Runtime.UI.TextPrinter.ChatPrinterPanelPhone" preserve="all" />
+    <type fullname="Scripts.GameSettingsUI" preserve="all" />
+    <type fullname="ScrollRectEx" preserve="all" />
+    <type fullname="SoundControl" preserve="all" />
+    <type fullname="StoryDropoutAnalytics" preserve="all" />
+    <type fullname="StoryFinalAnalytics" preserve="all" />
+    <type fullname="submodule_core.Services.HeartHunt.HeartView" preserve="all" />
+    <type fullname="submodule_core.Services.NovelsStats.NovelsStatsConfiguration" preserve="all" />
+    <type fullname="submodule_core.Services.ZodiacInsights.ZodiacInsightsConfiguration" preserve="all" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration" preserve="all" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.AnimatedCoversConfiguration" preserve="all" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration" preserve="all" />
+    <type fullname="TitleStartStoryButton" preserve="all" />
+    <type fullname="TMPMarquee" preserve="all" />
+    <type fullname="UI.CharacterStatIncreasePopup.CharacterStatIncreasePopup" preserve="all" />
+    <type fullname="UI.ChatPrinterPanelCustom" preserve="all" />
+    <type fullname="UI.CheatMenu.CheatMenuUI" preserve="all" />
+    <type fullname="UI.ChooseLanguage.ChooseLanguageUI" preserve="all" />
+    <type fullname="UI.ConfirmationUI" preserve="all" />
+    <type fullname="UI.CustomChoice.ChoiceHandlerButtonWithCost" preserve="all" />
+    <type fullname="UI.CustomChoice.ChoiceHandlerList" preserve="all" />
+    <type fullname="UI.CustomChoice.ChoiceHandlerPanelWithCost" preserve="all" />
+    <type fullname="UI.CustomChoice.CircleElementUI" preserve="all" />
+    <type fullname="UI.CustomChoice.ConfettiSpawner" preserve="all" />
+    <type fullname="UI.CustomChoice.CustomizationChoiceHandler" preserve="all" />
+    <type fullname="UI.CustomChoice.CustomizationInfoView" preserve="all" />
+    <type fullname="UI.CustomChoice.CustomizationInfoViewStat" preserve="all" />
+    <type fullname="UI.CustomChoice.HideCustomizationButton" preserve="all" />
+    <type fullname="UI.CustomChoice.NavigationView" preserve="all" />
+    <type fullname="UI.CustomChoice.NavigationViewItem" preserve="all" />
+    <type fullname="UI.CustomChoice.PagesElementUI" preserve="all" />
+    <type fullname="UI.CustomChoice.RelativeCharacterMovement" preserve="all" />
+    <type fullname="UI.EventPopupInstance" preserve="all" />
+    <type fullname="UI.ExitPopupUI.ExitPopup" preserve="all" />
+    <type fullname="UI.FeedbackPopup.FeedbackPopup" preserve="all" />
+    <type fullname="UI.FinalStory.FinalStoryUI" preserve="all" />
+    <type fullname="UI.FinalStory.StoryFinalArtItem" preserve="all" />
+    <type fullname="UI.GameUI.EpisodeScreenCurrencyBar" preserve="all" />
+    <type fullname="UI.GameUI.InGameHeader" preserve="all" />
+    <type fullname="UI.GameUI.TopMenuAnimator" preserve="all" />
+    <type fullname="UI.ImageChoices.ImageStartHandlerPanel" preserve="all" />
+    <type fullname="UI.MainMenu.AlternativeStoryUnavailableUI" preserve="all" />
+    <type fullname="UI.MainMenu.CommentsSignInPanel" preserve="all" />
+    <type fullname="UI.MainMenu.CommentView" preserve="all" />
+    <type fullname="UI.MainMenu.DockToKeyboard" preserve="all" />
+    <type fullname="UI.MainMenu.EnterCommentView" preserve="all" />
+    <type fullname="UI.MainMenu.EpisodeLoader" preserve="all" />
+    <type fullname="UI.MainMenu.EpisodeScreenShowTween" preserve="all" />
+    <type fullname="UI.MainMenu.EpisodeScreenUI" preserve="all" />
+    <type fullname="UI.MainMenu.GenreButton" preserve="all" />
+    <type fullname="UI.MainMenu.GenreListItem" preserve="all" />
+    <type fullname="UI.MainMenu.HomeUI" preserve="all" />
+    <type fullname="UI.MainMenu.MainMenuAnimatedBillboard" preserve="all" />
+    <type fullname="UI.MainMenu.MainMenuCategoriesUI" preserve="all" />
+    <type fullname="UI.MainMenu.MainMenuUI" preserve="all" />
+    <type fullname="UI.MainMenu.ManageCommentView" preserve="all" />
+    <type fullname="UI.MainMenu.PopularCommentPreview" preserve="all" />
+    <type fullname="UI.MainMenu.PreviewComments" preserve="all" />
+    <type fullname="UI.MainMenu.ReplyView" preserve="all" />
+    <type fullname="UI.MainMenu.StatsUI" preserve="all" />
+    <type fullname="UI.MainMenu.StoryPreviewButton" preserve="all" />
+    <type fullname="UI.MainMenu.StoryPreviewOnExit" preserve="all" />
+    <type fullname="UI.MainMenu.TopChartsView" preserve="all" />
+    <type fullname="UI.NavigationTipPopup.InactivityTimerAuthorTextTrigger" preserve="all" />
+    <type fullname="UI.NavigationTipPopup.NavigationTipPopup" preserve="all" />
+    <type fullname="UI.NotEnoughPopup.NotEnoughPopup" preserve="all" />
+    <type fullname="UI.NoticePopup.NoticePopup" preserve="all" />
+    <type fullname="UI.PlayerProfile.AchieveRewardPopup" preserve="all" />
+    <type fullname="UI.PlayerProfile.ExperienceBarUI" preserve="all" />
+    <type fullname="UI.ReferralCodes.TouchInputField" preserve="all" />
+    <type fullname="UI.Settings.FpsControl" preserve="all" />
+    <type fullname="UI.Settings.GameplaySettingsUI" preserve="all" />
+    <type fullname="UI.SpecialBonus.GetSpecialBonusPopup" preserve="all" />
+    <type fullname="UI.Subscription.GameSettingsSubscriptionButton" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.HorizontalScrollSnap" preserve="all" />
+    <type fullname="Utils.LayeredCharacterResolver" preserve="all" />
+    <type fullname="Utils.RequestNotifications" preserve="all" />
+    <type fullname="Utils.SetTranslucentSource" preserve="all" />
+    <type fullname="Utils.UI_Utils.DoubleScreenSwiper" preserve="all" />
+    <type fullname="Utils.UI_Utils.HomeScreenAdaptivePages" preserve="all" />
+    <type fullname="Utils.UI_Utils.IphoneFitter" preserve="all" />
+    <type fullname="Utils.UI_Utils.MobileTMPInputHandler" preserve="all" />
+    <type fullname="Utils.UI_Utils.OldDeviceFilter" preserve="all" />
+    <type fullname="Utils.UI_Utils.RestartInsightNovelText" preserve="all" />
+    <type fullname="VariableInputAnalytics" preserve="all" />
+    <type fullname="VerticalSwipeContainer" preserve="all" />
+    <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LocalizationParamsManager/ParamValue" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.StorePopupItem/ItemIcon" preserve="nothing" serialized="true" />
+    <type fullname="UI.CheatMenu.TimerData" preserve="nothing" serialized="true" />
+    <type fullname="UI.ChooseLanguage.LanguageToggle" preserve="nothing" serialized="true" />
+    <type fullname="UI.MainMenu.NovelsBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeEndEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeStartEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionPageChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LanguageData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LanguageSourceData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.TermData" preserve="nothing" serialized="true" />
+    <type fullname="Utils.LayeredCharacterResolver/CharLayers" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ArtsMetadata" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ArtsMetadata/Map" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/ArtItem" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/ArtsCountByGenre" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/ArtsCountByNovel" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/BonusOpenedArts" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/Episode" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.GalleryService.GalleryConfiguration/GalleryStory" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/AlternativeNovelData" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/LocalNotificationData" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/Sorting" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/SortingBlock" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/StatsToShow" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/Story" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/StoryPart" preserve="nothing" serialized="true" />
+    <type fullname="SubmoduleCore.Services.StoriesStateService.StoriesStateConfiguration/StoryProgress" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.NovelsStats.StatIncreaseDataItem" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.ChoiceVariant" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.InsightChoices" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.Prediction" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.ZodiacInsight" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.ZodiacInsightChoices" preserve="nothing" serialized="true" />
+    <type fullname="submodule_core.Services.ZodiacInsights.ZodiacPrediction" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AirFishLab.ScrollingList.CircularScrollingList" preserve="all" />
+    <type fullname="AirFishLab.ScrollingList.Demo.IntListBank" preserve="all" />
+    <type fullname="AirFishLab.ScrollingList.Demo.IntListBox" preserve="all" />
+    <type fullname="AirFishLab.ScrollingList.ListBoxSelectedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AirFishLab.ScrollingList.ListBoxSetting" preserve="nothing" serialized="true" />
+    <type fullname="AirFishLab.ScrollingList.ListSetting" preserve="nothing" serialized="true" />
+    <type fullname="AirFishLab.ScrollingList.ListTwoBoxesEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.SoftMaskForUGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UISoftMask.SoftMask" preserve="all" />
+    <type fullname="Coffee.UISoftMask.SoftMaskable" preserve="all" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="Elringus.Naninovel.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BubbleTypeChanger" preserve="all" />
+    <type fullname="NamePanelChanger" preserve="all" />
+    <type fullname="Naninovel.BackgroundsConfiguration" preserve="all" />
+    <type fullname="Naninovel.CharactersConfiguration" preserve="all" />
+    <type fullname="Naninovel.FX.Animate" preserve="all" />
+    <type fullname="Naninovel.FX.Blur" preserve="all" />
+    <type fullname="Naninovel.FX.DepthOfField" preserve="all" />
+    <type fullname="Naninovel.FX.DigitalGlitch" preserve="all" />
+    <type fullname="Naninovel.FX.Rain" preserve="all" />
+    <type fullname="Naninovel.FX.ShakeBackground" preserve="all" />
+    <type fullname="Naninovel.FX.ShakeCamera" preserve="all" />
+    <type fullname="Naninovel.FX.ShakeCharacter" preserve="all" />
+    <type fullname="Naninovel.FX.ShakePrinter" preserve="all" />
+    <type fullname="Naninovel.FX.Snow" preserve="all" />
+    <type fullname="Naninovel.FX.SunShafts" preserve="all" />
+    <type fullname="Naninovel.GenericCharacterBehaviour" preserve="all" />
+    <type fullname="Naninovel.LabeledButton" preserve="all" />
+    <type fullname="Naninovel.LayeredCharacterBehaviour" preserve="all" />
+    <type fullname="Naninovel.ManagedTextProvider" preserve="all" />
+    <type fullname="Naninovel.ReactToAspectRatio" preserve="all" />
+    <type fullname="Naninovel.RenderCanvas" preserve="all" />
+    <type fullname="Naninovel.Runtime.Actor.Character.CharacterGroupAsset" preserve="all" />
+    <type fullname="Naninovel.Runtime.UI.NoInternetConnectionPopup.NoInternetConnectionPopup" preserve="all" />
+    <type fullname="Naninovel.Script" preserve="all" />
+    <type fullname="Naninovel.ScriptableButton" preserve="all" />
+    <type fullname="Naninovel.ScriptableLabeledButton" preserve="all" />
+    <type fullname="Naninovel.UI.AuthorImage" preserve="all" />
+    <type fullname="Naninovel.UI.AuthorNameTMProPanel" preserve="all" />
+    <type fullname="Naninovel.UI.AuthorNameUIPanel" preserve="all" />
+    <type fullname="Naninovel.UI.ChatMessage" preserve="all" />
+    <type fullname="Naninovel.UI.ChatPrinterPanel" preserve="all" />
+    <type fullname="Naninovel.UI.ChoiceHandlerButton" preserve="all" />
+    <type fullname="Naninovel.UI.ChoiceHandlerPanel" preserve="all" />
+    <type fullname="Naninovel.UI.ClickThroughPanel" preserve="all" />
+    <type fullname="Naninovel.UI.ConfirmationPanel" preserve="all" />
+    <type fullname="Naninovel.UI.ContinueInputUI" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelAutoPlayButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelHideButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelLoadButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelLogButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelQuickLoadButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelQuickSaveButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelSaveButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelSettingsButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelSkipButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelTipsButton" preserve="all" />
+    <type fullname="Naninovel.UI.ControlPanelTitleButton" preserve="all" />
+    <type fullname="Naninovel.UI.EngineVersionText" preserve="all" />
+    <type fullname="Naninovel.UI.LoadingIcon" preserve="all" />
+    <type fullname="Naninovel.UI.LoadingPopup" preserve="all" />
+    <type fullname="Naninovel.UI.LoadLoggerScrollRect" preserve="all" />
+    <type fullname="Naninovel.UI.MovieUI" preserve="all" />
+    <type fullname="Naninovel.UI.NaninovelTMProText" preserve="all" />
+    <type fullname="Naninovel.UI.PingPongInputIndicator" preserve="all" />
+    <type fullname="Naninovel.UI.RestartConfirmationPanel" preserve="all" />
+    <type fullname="Naninovel.UI.RevealableTextPrinterPanel" preserve="all" />
+    <type fullname="Naninovel.UI.RevealableTMProText" preserve="all" />
+    <type fullname="Naninovel.UI.RevealableUIText" preserve="all" />
+    <type fullname="Naninovel.UI.SceneTransitionUI" preserve="all" />
+    <type fullname="Naninovel.UI.TitleSettingsButton" preserve="all" />
+    <type fullname="Naninovel.UI.TypingIndicator" preserve="all" />
+    <type fullname="Naninovel.FloatUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ManagedTextProvider/ValueChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.StringUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.ConfirmationPanel/OnMessageChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.ConfirmationPanel/OnTitleChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.ChoiceHandlerButton/SummaryTextChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericActorBehaviour/AppearanceChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericActorBehaviour/DescriptionChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericActorBehaviour/TintColorChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericActorBehaviour/VisibilityChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericCharacterBehaviour/CardZodiac" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.GenericCharacterBehaviour/LookDirectionChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.BackgroundMetadata" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.BackgroundMetadata/Map" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.CharacterMetadata" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.CharacterMetadata/Map" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.CharactersConfiguration/GroupRef" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ResourceLoaderConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ColorUnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.ReactToAspectRatio/ThresholdReachedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.ChatMessage/MessageTextChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.CustomUI/FontChangeConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.NaninovelTMProText/LinkClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Naninovel.UI.RevealableTextPrinterPanel/AuthorChangedEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Idaocracy.NaninovelPostProcess.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="NaninovelPostProcess.Bloom" preserve="all" />
+    <type fullname="NaninovelPostProcess.ChromaticAberration" preserve="all" />
+    <type fullname="NaninovelPostProcess.ColorGradingEXT" preserve="all" />
+    <type fullname="NaninovelPostProcess.ColorGradingHDR" preserve="all" />
+    <type fullname="NaninovelPostProcess.ColorGradingLDR" preserve="all" />
+    <type fullname="NaninovelPostProcess.Grain" preserve="all" />
+    <type fullname="NaninovelPostProcess.LensDistortion" preserve="all" />
+    <type fullname="NaninovelPostProcess.MotionBlur" preserve="all" />
+    <type fullname="NaninovelPostProcess.Vignette" preserve="all" />
+  </assembly>
+  <assembly fullname="LeTai.TranslucentImage, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LeTai.Asset.TranslucentImage.TranslucentImage" preserve="all" />
+  </assembly>
+  <assembly fullname="LeTai.TrueShadow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="LeTai.TrueShadow.TrueShadow" preserve="all" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.SkeletonAnimation" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonSubmeshGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Postprocessing.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.PostProcessing.Grain" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessVolume" preserve="all" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.BoolParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.FloatParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[HorizontalSwipeContainer/State]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[VerticalSwipeContainer/State]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.String]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
